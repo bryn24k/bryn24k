@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hey, I’m Bryn! 👋
 
-<!--
-**bryn24k/bryn24k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a self-taught developer honing my skills through hands-on projects from freeCodeCamp and The Odin Project.
 
-Here are some ideas to get you started:
+## What I’m About
+- **Skills**: HTML, CSS, Git
+- **Learning**: Currently diving deeper into developing a Landing Page as a project to improve my skills in responsive design, modern CSS techniques, and user experience optimization.
+- **Goal**: Building clean, efficient code that solves real problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Work
+- **[freeCodeCamp Projects](https://github.com/bryn24k/freeCodeCamp)**: A collection of challenges like calculators and portfolio pages. Check out my [Live Demo](https://bryn24k.github.io/freeCodeCamp/1.%20Responsive%20Web%20Design/Survey%20Form/) for the Developer Survey project!
+- **[The Odin Project](https://github.com/bryn24k/The-Odin-Project)**: Full-stack-ish adventures—think interactive UIs and more. See my favorite: [Odin Recipes](https://bryn24k.github.io/The-Odin-Project/Foundations/Odin%20Recipes/index.html).
+- **Pinned Below**: Scroll down for my top repos!
+
+Thanks for stopping by—let’s build something cool together!
